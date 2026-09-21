@@ -1,2 +1,2 @@
-# exemplo2-spring-boot-turmaC
-Comandos Básicos (CRUD)
+# exemplo3-turmaC
+Refatoração do exemplo3 e implementação de validação
